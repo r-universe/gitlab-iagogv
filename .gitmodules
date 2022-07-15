@@ -8,3 +8,8 @@
 	url = https://gitlab.com/iagogv/gramquad
 	shallow = true
 	registered = true
+[submodule "trouBBlme4SolveR"]
+	path = trouBBlme4SolveR
+	url = https://gitlab.com/iagogv/troubblme4solver
+	shallow = true
+	registered = true

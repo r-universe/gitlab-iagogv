@@ -2,5 +2,9 @@
   {
     "package": "GramQuad",
     "oncran": true
+  },
+  {
+    "package": "trouBBlme4SolveR",
+    "oncran": true
   }
 ]
